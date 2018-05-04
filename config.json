@@ -19,6 +19,7 @@
   }
  ,
 
+  
   {
     "title":"عن التطبيق",
     "drawable":"",
@@ -29,7 +30,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.knoozapps.myapp.halta3lam.SettingsFragment", "fragment"
+          "com.knoozapps.appm.halta3lam.SettingsFragment", "fragment"
         ]
       }
     ]
