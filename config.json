@@ -1,6 +1,6 @@
 [{
-     "title":"مشاهدة المقاطع"
-	"drawable":"",
+     "title":"مشاهدة المقاطع",
+    "drawable":"",
     "submenu":" من هنا",
     "iap":false,
     "tabs":[
