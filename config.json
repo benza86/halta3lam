@@ -1,16 +1,16 @@
 [{
-     "title":"مشاهدة الحلقات و الملخصات",
-    "drawable":"",
-    "submenu":"الحلقات من هنا",
+     "title":"مشاهدة المقاطع"
+	"drawable":"",
+    "submenu":" من هنا",
     "iap":false,
     "tabs":[
 
 	 {
-        "title":"هل تعلم",
+        "title":"؟هل تعلم",
         "provider":"youtube",
         "arguments":[
-          // "",
-          "channel"
+          "PLmQHtil5-0QXfitGJzitMwy6r4XhFDcVC",
+          "playlist"
 
         ]
      }
@@ -29,7 +29,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.aladinapps.appm.katousetrmad.SettingsFragment", "fragment"
+          "com.knoozapps.myapp.halta3lam.SettingsFragment", "fragment"
         ]
       }
     ]
