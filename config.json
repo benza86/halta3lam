@@ -1,0 +1,37 @@
+[{
+     "title":"مشاهدة الحلقات و الملخصات",
+    "drawable":"",
+    "submenu":"الحلقات من هنا",
+    "iap":false,
+    "tabs":[
+
+	 {
+        "title":"هل تعلم",
+        "provider":"youtube",
+        "arguments":[
+          // "",
+          "channel"
+
+        ]
+     }
+
+  ]
+  }
+ ,
+
+  {
+    "title":"عن التطبيق",
+    "drawable":"",
+    "submenu":"اخري",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.aladinapps.appm.katousetrmad.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
