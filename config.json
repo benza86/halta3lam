@@ -5,7 +5,7 @@
     "iap":false,
     "tabs":[
      {
-        "title":"رمضان ؟هل تعلم",
+        "title":"رمضان-هل تعلم",
         "provider":"youtube",
         "arguments":[
           "PLFApv2COP4epYyipbGLgF0cnx0lDDIPui",
@@ -23,6 +23,18 @@
 
         ]
      }
+	    ,
+	        ,
+	 {
+        "title":"حكايات رمضان",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoMnYiDZjjyx_eYC8FP5we1",
+          "playlist"
+
+        ]
+     }
+
 
 	
   ]
