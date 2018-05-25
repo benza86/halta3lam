@@ -23,7 +23,7 @@
 
         ]
      }
-	    ,
+	    
 	        ,
 	 {
         "title":"حكايات رمضان",
@@ -34,8 +34,26 @@
 
         ]
      }
+        ,
+	 {
+        "title":"Best Of 7kayat",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eq1xxAE5Q961ybSBedjwqOP",
+          "playlist"
 
+        ]
+     }
+      ,
+	 {
+        "title":"Best Of Oumour Jedia",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4epfpsrO1b0bQKPx7aCaOefT",
+          "playlist"
 
+        ]
+     }
 	
   ]
   }
