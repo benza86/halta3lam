@@ -4,7 +4,16 @@
     "submenu":" من هنا",
     "iap":false,
     "tabs":[
+     {
+        "title":"رمضان ؟هل تعلم",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4epYyipbGLgF0cnx0lDDIPui",
+          "playlist"
 
+        ]
+     }
+	    ,
 	 {
         "title":"؟هل تعلم",
         "provider":"youtube",
@@ -15,6 +24,7 @@
         ]
      }
 
+	
   ]
   }
  ,
