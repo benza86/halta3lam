@@ -33,9 +33,30 @@
           "playlist"
 
         ]
-     }
+     },
+	      {
+        "title":"الي ليك ليك ",
+        "provider":"youtube",
+        "arguments":[
+	"PLFApv2COP4erK3t-HoTCvHfqEhmGrBCim",
+
+          "playlist"
+
+        ]
+     }, 
+	    
+	     {
+        "title":" دنيا أخري ",
+        "provider":"youtube",
+        "arguments":[
+	"PLFApv2COP4eoXum4THeJKpA9Z8na0w1ku",
+
+          "playlist"
+
+        ]
+     },
    
-      ,
+      
 	 {
         "title":"Best Of Oumour Jedia",
         "provider":"youtube",
