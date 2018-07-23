@@ -125,6 +125,45 @@
     ]
 
   },
+		{
+     "title":"REPLAYS",
+    "drawable":"",
+    "submenu":" من هنا",
+    "iap":false,
+    "tabs":[
+     {
+        "title":"الوطنية Replays",
+        "provider":"youtube",
+        "arguments":[
+          "UCdvWVsmQBROkgcGzVep73oA",
+          "channel"
+
+        ]
+     }
+	    ,
+	 {
+        "title":"2 الوطنية",
+        "provider":"youtube",
+        "arguments":[
+          "UCJW9gatYczI191TunQxMGbA",
+          "channel"
+
+        ]
+     }
+	        ,
+	 {
+        "title":"الحوار التونسي",
+        "provider":"youtube",
+        "arguments":[
+          "UCXzmMkXaHxMVlutDBD8goHA",
+          "channel"
+
+        ]
+     }
+	    ]
+		}
+	,
+	 
 	  {
    "title":"الشروق",
     "drawable":"",
