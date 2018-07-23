@@ -48,6 +48,83 @@
     ]
 
   },
+	 {
+   "title":"الوطنية 1",
+    "drawable":"",
+    "submenu":"TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.watania1.tn/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1/%D9%85%D8%AD%D8%AA%D9%88%D9%89"
+        ]
+      }
+    ]
+
+  },
+		 {
+   "title":"الوطنية 2",
+    "drawable":"",
+    "submenu":"TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.watania1.tn/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1/%D9%85%D8%AD%D8%AA%D9%88%D9%89"
+        ]
+      }
+    ]
+
+  },
+			 {
+   "title":"Nessma TV",
+    "drawable":"",
+    "submenu":"TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.nessma.tv/fr/live"        ]
+      }
+    ]
+
+  },
+		 {
+   "title":"Hiwar Ettounsi",
+    "drawable":"",
+    "submenu":"TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://elhiwarettounsi.com/live.html"        ]
+      }
+    ]
+
+  },
+	 {
+   "title":"Hannibal TV",
+    "drawable":"",
+    "submenu":"TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://hannibaltv.com.tn/rubrique/%D8%AD%D9%86%D8%A8%D8%B9%D9%84-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1/420"        ]
+      }
+    ]
+
+  },
 	  {
    "title":"الشروق",
     "drawable":"",
@@ -106,7 +183,7 @@
     "tabs":[
       {
         "title":"WebView",
-          "provider":"rss",
+          "provider":"webview",
         "arguments":[
           "http://www.assabahnews.tn/rss-feed"
         ]
@@ -121,13 +198,7 @@
     "submenu":"",
     "iap":false,
     "tabs":[
-      {
-        "title":"الصباح",
-        "provider":"rss",
-        "arguments":[
-          "http://www.assabahnews.tn/rss-feed"
-        ]
-      },
+ 
       {
         "title":"France 24",
         "provider":"rss",
