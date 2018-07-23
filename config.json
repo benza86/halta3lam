@@ -48,6 +48,34 @@
     ]
 
   },
+	 {
+    "title":"أخبار سريعة",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"الصباح",
+        "provider":"rss",
+        "arguments":[
+          "http://www.assabahnews.tn/rss-feed"
+        ]
+      },
+      {
+        "title":"France 24",
+        "provider":"rss",
+        "arguments":[
+          "http://www.france24.com/ar/france/rss"  ]
+      },
+      {
+        "title":"France 24 Sport",
+        "provider":"rss",
+        "arguments":[
+          "http://www.france24.com/ar/sport/rss"  ]
+      }
+    ]
+  },
+
 	{
      "title":"مشاهدة المقاطع",
     "drawable":"",
