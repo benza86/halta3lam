@@ -357,6 +357,91 @@
     ]
 
   },
+			{
+   "title":"Tunisie Numérique",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://www.tunisienumerique.com/actualite-tunisie/politique/"
+        ]
+      }
+	    
+    ]
+
+  },
+			{
+   "title":"Business News",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.businessnews.com.tn/"
+        ]
+      }
+	    
+    ]
+
+  },
+		{
+   "title":"Leaders",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.leaders.com.tn/contentTopic"
+        ]
+      }
+	    
+    ]
+
+  },
+	{
+   "title":"Realites",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://www.realites.com.tn/category/news/"
+        ]
+      }
+	    
+    ]
+
+  },
+	{
+   "title":"Huffpost Maghreb",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://www.huffpostmaghreb.com/tunisie/"
+        ]
+      }
+	    
+    ]
+
+  },
 	 {
     "title":"أخبار سريعة",
     "drawable":"",
