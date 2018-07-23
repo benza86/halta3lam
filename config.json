@@ -94,6 +94,24 @@
           "http://www.akherkhabaronline.com/ar/1/actualites/%D9%88%D8%B7%D9%86%D9%8A%D8%A9"
         ]
       }
+	    
+    ]
+
+  },
+		{
+   "title":"الصباح",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"rss",
+        "arguments":[
+          "http://www.assabahnews.tn/rss-feed"
+        ]
+      }
+	    
     ]
 
   },
