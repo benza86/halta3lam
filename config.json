@@ -1,4 +1,54 @@
-[{
+[
+	  {
+   "title":"Mosaique FM",
+    "drawable":"",
+    "submenu":"RADIO",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.mosaiquefm.net/ar/player"
+        ]
+      }
+    ]
+
+  },
+	{
+   "title":"SHEMS FM",
+    "drawable":"",
+    "submenu":"RADIO",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.shemsfm.net/fr/radio"
+        ]
+      }
+    ]
+
+  },
+	
+	{
+   "title":"IFM",
+    "drawable":"",
+    "submenu":"RADIO",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.ifm.tn/live"
+        ]
+      }
+    ]
+
+  },
+	{
      "title":"مشاهدة المقاطع",
     "drawable":"",
     "submenu":" من هنا",
