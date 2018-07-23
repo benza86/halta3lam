@@ -160,6 +160,26 @@
 
         ]
      }
+	          ,
+	 {
+        "title":"Nessma TV",
+        "provider":"youtube",
+        "arguments":[
+          "UC-48PCT3flS86JkLzxlTA9g",
+          "channel"
+
+        ]
+     }
+	         ,
+	 {
+        "title":"Hannibal TV",
+        "provider":"youtube",
+        "arguments":[
+          "UCW7MhIFzZtsVe7ud36PvNeA",
+          "channel"
+
+        ]
+     }
 	    ]
 		}
 	,
