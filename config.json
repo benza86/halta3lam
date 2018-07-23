@@ -48,6 +48,55 @@
     ]
 
   },
+	  {
+   "title":"الشروق",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.alchourouk.com"
+        ]
+      }
+    ]
+
+  },
+	{
+   "title":"المصدر",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://ar.webmanagercenter.com/"
+        ]
+      }
+    ]
+
+  },
+	
+	{
+   "title":"اخر خبر",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.akherkhabaronline.com/ar/1/actualites/%D9%88%D8%B7%D9%86%D9%8A%D8%A9"
+        ]
+      }
+    ]
+
+  },
 	 {
     "title":"أخبار سريعة",
     "drawable":"",
