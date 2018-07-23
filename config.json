@@ -125,6 +125,21 @@
     ]
 
   },
+	 {
+   "title":"France 24 Ar",
+    "drawable":"",
+    "submenu":"TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.streaminghd.tn/live/France-24-Ar"        ]
+      }
+    ]
+
+  },
 		{
      "title":" REPLAYS",
     "drawable":"",
