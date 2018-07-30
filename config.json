@@ -32,6 +32,7 @@
 
   },
 	
+	
 	{
    "title":"IFM",
     "drawable":"",
@@ -47,6 +48,21 @@
       }
     ]
 
+  },
+	  {
+    "title":"Mosaique FM",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Mosaique FM",
+        "provider":"stream",
+        "arguments":[
+          "https://radio.mosaiquefm.net/mosalive"
+        ]
+      }
+    ]
   },
 	{
     "title":"Radio FM",
