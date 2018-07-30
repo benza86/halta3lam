@@ -2,7 +2,7 @@
 	  {
    "title":"Mosaique FM",
     "drawable":"",
-    "submenu":"RADIO",
+    "submenu":"أخبار وطنية",
     "iap":false,
     "tabs":[
       {
@@ -18,7 +18,7 @@
 	{
    "title":"SHEMS FM",
     "drawable":"",
-    "submenu":"RADIO",
+    "submenu":"أخبار وطنية",
     "iap":false,
     "tabs":[
       {
@@ -36,7 +36,7 @@
 	{
    "title":"IFM",
     "drawable":"",
-    "submenu":"RADIO",
+    "submenu":"أخبار وطنية",
     "iap":false,
     "tabs":[
       {
