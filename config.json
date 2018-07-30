@@ -48,6 +48,28 @@
     ]
 
   },
+	{
+    "title":"Radio FM",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Mosaique",
+        "provider":"radio",
+        "arguments":[
+          "https://radio.mosaiquefm.net/mosalive"
+        ]
+      },
+      {
+        "title":"ShemsFM",
+        "provider":"radio",
+        "arguments":[
+          "http://5.135.142.50:8000/direct"
+        ]
+      }
+    ]
+  },
 	 {
    "title":"الوطنية 1",
     "drawable":"",
