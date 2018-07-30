@@ -50,7 +50,7 @@
 
   },
 	  {
-    "title":"Mosaique FM",
+    "title":"RADIO LIVE",
     "drawable":"",
     "submenu":"",
     "iap":false,
@@ -60,6 +60,22 @@
         "provider":"stream",
         "arguments":[
           "https://radio.mosaiquefm.net/mosalive"
+        ]
+      }
+	    ,
+	        {
+        "title":"IFM",
+        "provider":"stream",
+        "arguments":[
+          "http://5.135.142.50:8000/direct"
+        ]
+      }
+	      ,
+	        {
+        "title":"Shems FM",
+        "provider":"stream",
+        "arguments":[
+          "http://stream6.tanitweb.com/shems"
         ]
       }
     ]
