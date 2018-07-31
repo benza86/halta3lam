@@ -54,7 +54,7 @@
 	 {
    "title":"الوطنية 1",
     "drawable":"",
-    "submenu":"TV",
+    "submenu":"بث مباشر",
     "iap":false,
     "tabs":[
       {
@@ -70,7 +70,7 @@
 		 {
    "title":"الوطنية 2",
     "drawable":"",
-    "submenu":"TV",
+    "submenu":"بث مباشر",
     "iap":false,
     "tabs":[
       {
@@ -86,7 +86,7 @@
 			 {
    "title":"Nessma TV",
     "drawable":"",
-    "submenu":"TV",
+    "submenu":"بث مباشر",
     "iap":false,
     "tabs":[
       {
@@ -101,7 +101,7 @@
 		 {
    "title":"Hiwar Ettounsi",
     "drawable":"",
-    "submenu":"TV",
+    "submenu":"بث مباشر",
     "iap":false,
     "tabs":[
       {
@@ -116,7 +116,7 @@
 	 {
    "title":"Hannibal TV",
     "drawable":"",
-    "submenu":"TV",
+    "submenu":"بث مباشر",
     "iap":false,
     "tabs":[
       {
@@ -131,7 +131,7 @@
 	 {
    "title":"France 24 Ar",
     "drawable":"",
-    "submenu":"TV",
+    "submenu":"بث مباشر",
     "iap":false,
     "tabs":[
       {
@@ -146,7 +146,7 @@
 		 {
    "title":"France 24 Fr",
     "drawable":"",
-    "submenu":"TV",
+    "submenu":"بث مباشر",
     "iap":false,
     "tabs":[
       {
@@ -161,7 +161,7 @@
 	 {
    "title":"Arabia",
     "drawable":"",
-    "submenu":"TV",
+    "submenu":"بث مباشر",
     "iap":false,
     "tabs":[
       {
@@ -176,7 +176,7 @@
 		 {
    "title":"Aljazeera",
     "drawable":"",
-    "submenu":"TV",
+    "submenu":"بث مباشر",
     "iap":false,
     "tabs":[
       {
@@ -191,7 +191,7 @@
 		 {
    "title":"Sky News Arabia",
     "drawable":"",
-    "submenu":"TV",
+    "submenu":"بث مباشر",
     "iap":false,
     "tabs":[
       {
@@ -206,7 +206,7 @@
 		 {
    "title":"BFM TV",
     "drawable":"",
-    "submenu":"TV",
+    "submenu":"بث مباشر",
     "iap":false,
     "tabs":[
       {
