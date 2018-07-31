@@ -143,21 +143,7 @@
     ]
 
   },
-	 {
-   "title":"Hannibal TV",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://hannibaltv.com.tn/rubrique/%D8%AD%D9%86%D8%A8%D8%B9%D9%84-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1/420"        ]
-      }
-    ]
-
-  },
+	
 	 {
    "title":"France 24 Ar",
     "drawable":"",
