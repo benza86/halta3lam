@@ -138,7 +138,82 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-"https://www.streaminghd.tn/live/France-24-Ar"        ]
+"http://www.france24.com/ar/livefeed"        ]
+      }
+    ]
+
+  },
+		 {
+   "title":"France 24 Fr",
+    "drawable":"",
+    "submenu":"TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.france24.com/fr/tv-en-direct-chaine-live"        ]
+      }
+    ]
+
+  },
+	 {
+   "title":"Arabia",
+    "drawable":"",
+    "submenu":"TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.alarabiya.net/live-stream.html"        ]
+      }
+    ]
+
+  },
+		 {
+   "title":"Aljazeera",
+    "drawable":"",
+    "submenu":"TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.aljazeera.net/broadcastschedule"        ]
+      }
+    ]
+
+  },
+		 {
+   "title":"Sky News Arabia",
+    "drawable":"",
+    "submenu":"TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.skynewsarabia.com/livestream-%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1"        ]
+      }
+    ]
+
+  },
+		 {
+   "title":"BFM TV",
+    "drawable":"",
+    "submenu":"TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.bfmtv.com/mediaplayer/live-video/"        ]
       }
     ]
 
