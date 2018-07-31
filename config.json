@@ -445,6 +445,74 @@
     ]
 
   },
+	{
+   "title":"أخبار النادي الافريقي",
+    "drawable":"",
+    "submenu":"كرة قدم",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.ligueclubiste.com/sitear/"
+        ]
+      }
+	    
+    ]
+
+  },
+	{
+   "title":"أخبارالترجي الرياضي التونسي",
+    "drawable":"",
+    "submenu":"كرة قدم",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://e-s-tunis.com/ar"
+        ]
+      }
+	    
+    ]
+
+  },
+		{
+   "title":"أخبار النجم الساحلي",
+    "drawable":"",
+    "submenu":"كرة قدم",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://kora.com/tunisia/etoile-du-sahel/"
+        ]
+      }
+	    
+    ]
+
+  },
+	{
+   "title":"أخبار  النادي الصفاقسي",
+    "drawable":"",
+    "submenu":"كرة قدم",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.sfaxien.net/search/label/%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%20%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D9%82%D8%B3%D9%8A"
+        ]
+      }
+	    
+    ]
+
+  },
 	 {
     "title":"أخبار سريعة",
     "drawable":"",
