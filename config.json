@@ -34,7 +34,7 @@
 	
 	
 	{
-   "title":"IFM",
+   "title":"Jawhara FM",
     "drawable":"",
     "submenu":"أخبار وطنية",
     "iap":false,
@@ -43,7 +43,7 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://www.ifm.tn/actualites/actualite-tunisie"
+          "http://www.jawharafm.net/ar/articles/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/6"
         ]
       }
     ]
