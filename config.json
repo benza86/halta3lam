@@ -49,7 +49,28 @@
     ]
 
   },
+	{
+     "title":" كرة قدم ملخصات و أهداف",
+    "drawable":"",
+    "submenu":"أخبار وطنية",
+    "iap":false,
+    "tabs":[
+	           
 	 {
+        "title":"ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCgPQ-ItOBKAGQSshL0CFA5w",
+          "channel"
+
+        ]
+     }
+	    
+     ]
+     }
+	,
+	
+	{
    "title":"أخبار موزاييك",
     "drawable":"",
     "submenu":"نشرات الأخبار",
