@@ -7,10 +7,20 @@
     "tabs":[
 	           
 	 {
-        "title":"ملخصات",
+        "title":"أخبار وطنية 1",
         "provider":"youtube",
         "arguments":[
           "UCdvWVsmQBROkgcGzVep73oA",
+          "channel"
+
+        ]
+     }
+	    ,
+	     {
+        "title":"أخبار نسمة NEws",
+        "provider":"youtube",
+        "arguments":[
+          "UC-48PCT3flS86JkLzxlTA9g",
           "channel"
 
         ]
