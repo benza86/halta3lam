@@ -256,38 +256,46 @@
       }
     ]
 
-  },
+  }
 	
+	    ,
 	 {
    "title":"France 24 Ar",
     "drawable":"",
     "submenu":"بث مباشر",
     "iap":false,
     "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
+     {
+        "title":"France 24 Ar",
+        "provider":"youtube",
         "arguments":[
-"http://www.france24.com/ar/livefeed"        ]
-      }
-    ]
+          "PLpuTkbiVtmphb3aZUCNMzthlZOP3ONKXX",
+          "playlist"
 
-  },
-		 {
+        ]
+     }
+	 ]
+
+  }
+	  ,
+	 {
    "title":"France 24 Fr",
     "drawable":"",
     "submenu":"بث مباشر",
     "iap":false,
     "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
+     {
+        "title":"France 24 Fr",
+        "provider":"youtube",
         "arguments":[
-"http://www.france24.com/fr/tv-en-direct-chaine-live"        ]
-      }
-    ]
+          "PLpuTkbiVtmpgsR0u8rejodNEwpMpKWLkS",
+          "playlist"
 
-  },
+        ]
+     }
+	 ]
+
+  }
 		 {
    "title":"الجزيرة",
     "drawable":"",
