@@ -168,6 +168,45 @@
 
   }
 	    ,
+	 {
+   "title":"الوطنية 2",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+     {
+        "title":"Watania 1",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpi-tMGmF5M9Gp6Dkmi074uI",
+          "playlist"
+
+        ]
+     }
+	 ]
+
+  }
+	    ,
+		 {
+   "title":"Bein Sports News",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+     {
+        "title":"Watania 1",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmphwHuOtbJPlGWJXE9K1Ktkb",
+          "playlist"
+
+        ]
+     }
+	 ]
+
+  }
+	    ,
+	
 	    
 					 {
    "title":"Nessma TV",
@@ -230,6 +269,25 @@
     ]
 
   },
+		 {
+   "title":"الجزيرة",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+     {
+        "title":"Watania 1",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpgMlMxGfzQV8oDrZ1skdonC",
+          "playlist"
+
+        ]
+     }
+	 ]
+
+  }
+	    ,
 	 {
    "title":"Arabia",
     "drawable":"",
@@ -245,21 +303,7 @@
     ]
 
   },
-		 {
-   "title":"Aljazeera",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"http://www.aljazeera.net/broadcastschedule"        ]
-      }
-    ]
-
-  },
+		
 		 {
    "title":"Sky News Arabia",
     "drawable":"",
