@@ -186,44 +186,8 @@
 	 ]
 
   }
-	  ,
-	 {
-   "title":"Makkah Live HD - قناة القران الكريم",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"Watania 1",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmpj5hycpDoEHBkR19gTa95qN",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
-	    ,
-		 {
-   "title":"Bein Sports News",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"Watania 1",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmphwHuOtbJPlGWJXE9K1Ktkb",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
+	 
+	 
 	    ,
 	
 	    
@@ -363,24 +327,7 @@
 
   },
 	 
-	 {
-   "title":"قناة السنة النبوية | المدينة المنورة بث مباشر",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"Watania 1",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmpim3RR55h6-_1S5l76mUrcr",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  },
+	
 		{
      "title":" REPLAYS",
     "drawable":"",
