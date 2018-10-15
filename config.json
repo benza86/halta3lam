@@ -149,46 +149,43 @@
 
   },
 	
-	 {
-   "title":"الوطنية 1",
+	{
+    "title":"الوطنية 1",
     "drawable":"",
-    "submenu":"بث مباشر",
+    "submenu":"بث المباريات",
     "iap":false,
     "tabs":[
-     {
+	  
+	           {
         "title":"Watania 1",
         "provider":"youtube",
         "arguments":[
-          "PLpuTkbiVtmpiH-0e09Q4iUHT1arHy_iOz",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
-	    ,
-	 {
-   "title":"الوطنية 2",
+          "UCdvWVsmQBROkgcGzVep73oA",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
+	  {
+    "title":"الوطنية 2",
     "drawable":"",
-    "submenu":"بث مباشر",
+    "submenu":"بث المباريات",
     "iap":false,
     "tabs":[
-     {
-        "title":"Watania 1",
+	  
+	           {
+        "title":"Watania 2",
         "provider":"youtube",
         "arguments":[
-          "PLpuTkbiVtmpi6k7ycw_r3wVYHooTu1MTA",
-          "playlist"
+          "UCJW9gatYczI191TunQxMGbA",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
 
-        ]
-     }
-	 ]
-
-  }
-	 
-	 
-	    ,
 	
 	    
 {
